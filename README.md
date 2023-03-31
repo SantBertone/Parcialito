@@ -1,2 +1,0 @@
-# Parcialito
-READ ME
